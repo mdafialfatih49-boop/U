@@ -38,4 +38,3 @@ jobs:
         with:
           name: Mob-Fusion-Fabric-1.20.1
           path: mobfusion-mod/build/libs/*.jar
-          if-no-files-found: error
